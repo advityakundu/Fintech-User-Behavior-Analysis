@@ -42,3 +42,5 @@ From the analysis, we derived several key insights:
 - Patterns indicating which users are more likely to churn.
 - Strategies that can potentially enhance user engagement and reduce churn.
 - Segments of users that might benefit from targeted marketing or personalized features.
+
+Dataset link: https://www.kaggle.com/datasets/niketdheeryan/fintech-users-data?datasetId=743161
