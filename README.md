@@ -12,7 +12,7 @@ In the rapidly evolving world of fintech, understanding user behaviour is paramo
 The primary goal of this project is to:
 - Understand distinct patterns in fintech user behaviour.
 - Predict which users are likely to churn.
-- Provide actionable insights for improving user retention.
+- Provide actionable insights for improving user retention strategies.
 
 ## Data Cleaning & Pre-processing
 
